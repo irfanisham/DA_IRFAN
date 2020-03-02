@@ -8,7 +8,9 @@ class DA:
             df = pd.read_csv(file)
             print(df)
 
-            print(df.iloc[1:129, 0:18])
+
+
+            print(df.iloc[1:129, 0:19])
 
 
 
