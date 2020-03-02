@@ -9,8 +9,8 @@ class DA:
             print(df)
 
 
-
-            print(df.iloc[1:129, 0:19])
+#filtering data base on region and duration from 78 to 88
+            print(df.iloc[0:119, 0:19])
 
 
 
